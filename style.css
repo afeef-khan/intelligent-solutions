@@ -1,0 +1,48 @@
+/* basic setup */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #0A2463;
+    --accent: #1E90FF;
+    --light-bg: #F4F7FC;
+    --text-dark: #1A1A2E;
+    --text-muted: #6B7280;
+    --white: #ffffff;
+
+    transition: all 0.3s ease;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-dark);
+    background-color: var(--white);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+.container {
+    width: 100%;
+    min-width: 1280px;
+    padding: 0px 48px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}

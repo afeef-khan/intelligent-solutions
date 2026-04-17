@@ -136,7 +136,7 @@ img {
 }
 
 .section-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 46px;
     font-weight: 800;
     line-height: 1.1;
@@ -344,7 +344,7 @@ img {
 }
 
 .nav-logo-text {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 22px;
     font-weight: 800;
     color: var(--white);
@@ -575,7 +575,7 @@ img {
 }
 
 .hero-title {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 78px;
     font-weight: 800;
     line-height: 1.0;
@@ -620,7 +620,7 @@ img {
 }
 
 .stat-num {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 32px;
     font-weight: 800;
     color: var(--white);
@@ -734,7 +734,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 22px;
     font-weight: 800;
     color: var(--white);
@@ -917,7 +917,7 @@ img {
 }
 
 .vmv-card h3 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 22px;
     font-weight: 700;
     color: var(--text-dark);
@@ -945,7 +945,7 @@ img {
     right: -40px;
     top: 50%;
     transform: translateY(-50%);
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 280px;
     font-weight: 800;
     color: var(--white-025);
@@ -1000,7 +1000,7 @@ img {
 }
 
 .v2030-num {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 13px;
     font-weight: 700;
     color: var(--accent-bright);
@@ -1010,7 +1010,7 @@ img {
 }
 
 .v2030-content h4 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: var(--white);
@@ -1094,7 +1094,7 @@ img {
 }
 
 .wp-card h4 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: var(--text-dark);
@@ -1146,7 +1146,7 @@ img {
 }
 
 .obj-num {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 13px;
     font-weight: 700;
     color: var(--accent-bright);
@@ -1177,7 +1177,7 @@ img {
 }
 
 .obj-body h3 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 24px;
     font-weight: 700;
     color: var(--text-dark);
@@ -1257,7 +1257,7 @@ img {
 }
 
 .sol-num {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 12px;
     font-weight: 700;
     color: var(--accent-70);
@@ -1287,7 +1287,7 @@ img {
 }
 
 .sol-card h3 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 22px;
     font-weight: 700;
     color: var(--white);
@@ -1450,7 +1450,7 @@ img {
 }
 
 .footer-logo-text {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 24px;
     font-weight: 800;
     color: var(--white);
@@ -1465,7 +1465,7 @@ img {
 
 .footer-links h5,
 .footer-solutions h5 {
-    font-family: 'Syne', sans-serif;
+    font-family: 'Epilogue', sans-serif;
     font-size: 14px;
     font-weight: 700;
     color: var(--white);
